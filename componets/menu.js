@@ -42,18 +42,18 @@ Vue.component('menu-component',{
                 },
                 {
                     name :" 주거공간" ,
-                    src : "./img/아파트/렌더링/밤장면1.PNG",
+                    src : "./img/아파트/렌더링/밤장면1.png",
                     link : "../dwelling.html"
                 },
                 
                 {
                     name :" 카페" ,
-                    src : "./img/카페/모델링/카페01 내부-낮장면00.PNG",
+                    src : "./img/카페/모델링/카페01 내부-낮장면00.png",
                     link : "../Cafe.html"
                 },
                 {
                     name :" 헤어샵" , 
-                    src : "./img/미용실/모델링/미용실 모델링 리터치02.PNG",
+                    src : "./img/미용실/모델링/미용실 모델링 리터치02.png",
                     link : "../hairshop.html"
                 },
             ],
