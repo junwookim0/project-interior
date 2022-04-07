@@ -33,10 +33,10 @@ Vue.component('main-carousel',{
     data : function() {
         return {
             slides: [
-                {src : "./img/아파트/렌더링/낮장면 카메라-01.PNG"},
-                {src : "./img/아파트/렌더링/낮장면 카메라-01.PNG"},
-                {src : "./img/아파트/렌더링/낮장면 카메라-01.PNG"},
-                {src : "./img/아파트/렌더링/낮장면 카메라-01.PNG"},
+                {src : "./img/아파트/렌더링/밤장면1.png"},
+                {src : "./img/아파트/렌더링/밤장면4.png"},
+                {src : "./img/아파트/렌더링/낮장면 카메라-01.png"},
+                {src : "./img/아파트/렌더링/낮장면 카메라-01.png"},
             ],
             
         }
