@@ -20,7 +20,6 @@ Vue.component('main-carousel',{
                     v-for="(slide, i) in slides"
                     :key="i"
                     :src="slide.src"
-                    lazy-src
                     width="1150"
                 >
 
