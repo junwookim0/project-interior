@@ -32,10 +32,10 @@ Vue.component('main-carousel',{
     data : function() {
         return {
             slides: [
+                {src : "./img/호텔/렌더링/낮장면-02.png"},
+                {src : "./img/호텔/렌더링/낮장면-04.png"},
                 {src : "./img/아파트/렌더링/밤장면1.png"},
                 {src : "./img/아파트/렌더링/밤장면4.png"},
-                {src : "./img/아파트/렌더링/낮장면 카메라-01.png"},
-                {src : "./img/아파트/렌더링/낮장면 카메라-01.png"},
             ],
             
         }
