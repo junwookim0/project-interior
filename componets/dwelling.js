@@ -15,15 +15,16 @@ Vue.component('dwelling-component',{
             color="original_blue_color"
             grow
             >
-                <v-tab>
+                <v-tab  class="text-h6">
                     plan
                 </v-tab>
-                <v-tab>
+                <v-tab  class="text-h6">
                     modelling
                 </v-tab>
-                <v-tab>
+                <v-tab  class="text-h6">
                     ISO
                 </v-tab>
+                
             
                 <v-tab-item>
                 <v-row class="mt-9 mb-9">

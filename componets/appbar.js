@@ -66,6 +66,7 @@ Vue.component('appbar-component',{
                     <v-list-item
                     v-for="(item, index) in PORTFOLIO"
                     :key="index"
+                    :href="item.link"
                     id="appbar_font"
                     >
                     <v-list-item-title>{{ item.title }}</v-list-item-title>
@@ -124,8 +125,7 @@ Vue.component('appbar-component',{
             PORTFOLIO: [
                 {
                     title : 'CAFE Remodeling',
-                    link : '#'
-
+                    link : '../포폴 자료.pdf'
                 },
 
             ]

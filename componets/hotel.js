@@ -15,10 +15,10 @@ Vue.component('hotel-component',{
             color="original_blue_color"
             grow
             >
-                <v-tab>
+                <v-tab  class="text-h6">
                     plan
                 </v-tab>
-                <v-tab>
+                <v-tab  class="text-h6">
                     modelling
                 </v-tab>
             
