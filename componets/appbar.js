@@ -99,8 +99,6 @@ Vue.component('appbar-component',{
                 </v-menu>
             </div>
             
-
-            
         </v-app-bar>
     </div>
     `,
